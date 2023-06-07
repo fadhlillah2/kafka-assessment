@@ -28,7 +28,7 @@ This application generates user profiles (name, address, phone, age), sends them
 
 ### Steps to Run
 
-1. Make sure your Kafka server is running. If not, start it.
+1. Make sure your Kafka server is running. If not, start it. (recomended to using docker)
 
 2. Create a Kafka topic named `UserProfiles`.
 
